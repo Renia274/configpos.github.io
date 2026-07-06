@@ -25,7 +25,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : false,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "worldline",
+      "acqTheme" : "premium",
       "allowIris" : true
     }, {
       "acqIndetifier" : "011",
@@ -36,7 +36,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : false,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "worldline",
+      "acqTheme" : "premium",
       "allowIris" : false
     }, {
       "acqIndetifier" : "017",
@@ -47,7 +47,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : true,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "worldline",
+      "acqTheme" : "premium",
       "allowIris" : false
     }, {
       "acqIndetifier" : "016",
@@ -69,7 +69,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : true,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "worldline",
+      "acqTheme" : "premium",
       "allowIris" : false
     } ]
   },
