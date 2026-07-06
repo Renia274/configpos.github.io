@@ -36,7 +36,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : false,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "premium",
+      "acqTheme" : "mint",
       "allowIris" : false
     }, {
       "acqIndetifier" : "017",
@@ -47,7 +47,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : true,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "premium",
+      "acqTheme" : "mint",
       "allowIris" : false
     }, {
       "acqIndetifier" : "016",
@@ -58,7 +58,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : true,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "premium",
+      "acqTheme" : "mint",
       "allowIris" : false
     }, {
       "acqIndetifier" : "887",
@@ -69,7 +69,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : true,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "premium",
+      "acqTheme" : "mint",
       "allowIris" : false
     } ]
   },
