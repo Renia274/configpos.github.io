@@ -25,7 +25,7 @@
       "allowKeyEntry" : true,
       "allowMoto" : false,
       "premiumLocalApprovalCode" : "",
-      "acqTheme" : "dark",
+      "acqTheme" : "premium_dark",
       "allowIris" : true
     }, {
       "acqIndetifier" : "011",
