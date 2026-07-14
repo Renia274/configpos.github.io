@@ -16,18 +16,8 @@
         "acqName": ""
     },
 "multiAcq" : {
-    "acquirers" : [ {
-      "acqIndetifier" : "026",
-      "acqName" : "WORLDLINE",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : false,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "premium",
-      "allowIris" : true
-    }, {
+    "acquirers" : [
+	{
       "acqIndetifier" : "011",
       "acqName" : "NBG PAY",
       "allowLocal" : true,
@@ -38,6 +28,17 @@
       "premiumLocalApprovalCode" : "",
       "acqTheme" : "possible",
       "allowIris" : false
+    }, {
+      "acqIndetifier" : "026",
+      "acqName" : "WORLDLINE",
+      "allowLocal" : true,
+      "allowPremiumLocal" : false,
+      "allowRefund" : true,
+      "allowKeyEntry" : true,
+      "allowMoto" : false,
+      "premiumLocalApprovalCode" : "",
+      "acqTheme" : "possible",
+      "allowIris" : true
     }, {
       "acqIndetifier" : "017",
       "acqName" : "epay",
