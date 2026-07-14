@@ -16,8 +16,7 @@
         "acqName": ""
     },
 "multiAcq" : {
-    "acquirers" : [
-	{
+    "acquirers" : [{
       "acqIndetifier" : "011",
       "acqName" : "NBG PAY",
       "allowLocal" : true,
