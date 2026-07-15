@@ -15,67 +15,73 @@
         "acqIndetifier": "",
         "acqName": ""
     },
-"multiAcq" : {
-    "acquirers" : [{
-      "acqIndetifier" : "011",
-      "acqName" : "NBG PAY",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : false,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "possible",
-      "allowIris" : false
-    }, {
-      "acqIndetifier" : "026",
-      "acqName" : "WORLDLINE",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : false,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "possible",
-      "allowIris" : true
-    }, {
-      "acqIndetifier" : "017",
-      "acqName" : "epay",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : true,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "possible",
-      "allowIris" : false
-    }, {
-      "acqIndetifier" : "016",
-      "acqName" : "Attica Bank",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : true,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "possible",
-      "allowIris" : false
-    }, {
-      "acqIndetifier" : "887",
-      "acqName" : "Cardlink one",
-      "allowLocal" : true,
-      "allowPremiumLocal" : false,
-      "allowRefund" : true,
-      "allowKeyEntry" : true,
-      "allowMoto" : true,
-      "premiumLocalApprovalCode" : "",
-      "acqTheme" : "possible",
-      "allowIris" : false
-    } ]
+ "multiAcq": {
+    "acquirers": [
+      {
+        "acqIndetifier": "011",
+        "acqName": "NBG PAY",
+        "allowLocal": true,
+        "allowPremiumLocal": false,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": false,
+        "premiumLocalApprovalCode": "",
+        "acqTheme": "possible",
+        "allowIris": false
+      },
+      {
+        "acqIndetifier": "026",
+        "acqName": "WORLDLINE",
+        "allowLocal": true,
+        "allowPremiumLocal": false,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": false,
+        "premiumLocalApprovalCode": "",
+        "acqTheme": "possible",
+        "allowIris": true
+      },
+      {
+        "acqIndetifier": "017",
+        "acqName": "epay",
+        "allowLocal": true,
+        "allowPremiumLocal": false,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": "",
+        "acqTheme": "possible",
+        "allowIris": false
+      },
+      {
+        "acqIndetifier": "016",
+        "acqName": "Attica Bank",
+        "allowLocal": true,
+        "allowPremiumLocal": false,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": "",
+        "acqTheme": "possible",
+        "allowIris": false
+      },
+      {
+        "acqIndetifier": "887",
+        "acqName": "Cardlink one",
+        "allowLocal": true,
+        "allowPremiumLocal": false,
+        "allowRefund": true,
+        "allowKeyEntry": true,
+        "allowMoto": true,
+        "premiumLocalApprovalCode": "",
+        "acqTheme": "possible",
+        "allowIris": false
+      }
+    ]
   },
   "multiMid" : {
     "services" : [ ]
-  }
+  },
     "allowTransactions": {
         "isAllowSalesPayment": true,
         "isAllowVoidPayment": true,
