@@ -25,7 +25,7 @@
         "allowRefund": true,
         "allowKeyEntry": true,
         "allowMoto": false,
-        "premiumLocalApprovalCode": "",
+        "premiumLocalApprovalCode": "000001",
         "acqTheme": "possible",
         "allowIris": false
       },
