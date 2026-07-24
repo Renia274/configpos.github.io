@@ -24,7 +24,7 @@
         "allowPremiumLocal": false,
         "allowRefund": true,
         "allowKeyEntry": true,
-        "allowMoto": false,
+        "allowMoto": true,
         "premiumLocalApprovalCode": "",
         "acqTheme": "possible",
         "allowIris": false
@@ -36,7 +36,7 @@
         "allowPremiumLocal": false,
         "allowRefund": true,
         "allowKeyEntry": true,
-        "allowMoto": true,
+        "allowMoto": false,
         "premiumLocalApprovalCode": "",
         "acqTheme": "possible",
         "allowIris": true
