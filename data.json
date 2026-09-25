@@ -140,7 +140,7 @@
                 "callMe": "support@cardlink.gr"
             }
         },
-        "supportOrderThermalRollEnabled": true,
+        "supportOrderThermalRollEnabled": false,
         "displayPaperRollDiscontinueNotification": false,
         "receiptSettings": {
             "showEmvDataInReceipt": false,
