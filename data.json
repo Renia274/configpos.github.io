@@ -9,7 +9,7 @@
         "merchantTelephone": "2106100670",
         "merchantVatNumber": "979703476",
         "cardlinkMerchantType": "",
-        "merchantID": "77225122",
+        "merchantID": "0023839673",
         "terminalID": "77700006",
         "customerID": "00000000000001",
         "acqIndetifier": "",
@@ -26,7 +26,7 @@
         "allowKeyEntry": true,
         "allowMoto": false,
         "premiumLocalApprovalCode": "",
-        "acqTheme": "dark",
+        "acqTheme": "mcdonalds",
         "allowIris": false
       },
       {
@@ -120,7 +120,7 @@
         "localSaleEnabled": true,
         "isManualAcquirerSelection": true,
         "preAuthEnabled": true,
-        "unattendedMode": false,
+        "unattendedMode": true,
         "slaveDeviceEnabled": false,
         "mdbManagerEnabled": false,
         "mdbCreditsAvailable": 0,
